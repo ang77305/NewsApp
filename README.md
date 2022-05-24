@@ -1,5 +1,4 @@
 
-# MVVMGallery
 
 
 
@@ -18,6 +17,5 @@ Retrofit
 
 Dagger 
 
-Pixabay
-# News
+
 # NewsApp

@@ -18,6 +18,5 @@ Retrofit
 
 Dagger 
 
-Pixabay
 # News
 # NewsApp
